@@ -1,4 +1,4 @@
-module github.com/BishopFox/sj
+module github.com/PayHaz/sj
 
 go 1.23
 
